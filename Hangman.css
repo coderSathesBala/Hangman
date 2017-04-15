@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+}
+
+#challengeone {
+  display: inline;
+  text-align: center;
+  padding-left: 70px;
+}
+
+.challenge {
+  display: inline;
+  text-align: center;
+  padding-left: 140px;
+}
+
+.picture1 {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.picture {
+  display: none;
+}
+
+.solution {
+  text-align: center;
+  padding-top: 100px;
+}
