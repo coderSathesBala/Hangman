@@ -1,29 +1,38 @@
 .title {
-  text-align: center;
+    text-align: center;
 }
 
-#challengeone {
+.newGame {
+    margin: 20px auto;
+    display: block;
+}
+
+#picture1 {
+  float: left;
+    padding: 30px 0px 0px 20px;
+}
+
+.photo {
+    display:  none;
+}
+
+#underline {
+    width: 20px;
+}
+
+hr {
+    background-color: black;
+    border: 0 none;
+    color: black;
+    height: 5px;
+}
+
+.underlined {
+  border-bottom: 2px solid black;
   display: inline;
-  text-align: center;
-  padding-left: 70px;
+  margin: 0 5px;
 }
 
-.challenge {
-  display: inline;
-  text-align: center;
-  padding-left: 140px;
-}
-
-.picture1 {
-  padding-top: 100px;
-  padding-left: 100px;
-}
-
-.picture {
-  display: none;
-}
-
-.solution {
-  text-align: center;
-  padding-top: 100px;
+#letters {
+  padding-left: 50px;
 }
